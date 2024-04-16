@@ -20,6 +20,9 @@ require(tidyverse)
 
 # Predicting Fish Weight
 
+```{r}
+fish <- read.csv(file = "Fish.csv")
+```
 
 ## Perch
 
