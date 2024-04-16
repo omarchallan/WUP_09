@@ -94,6 +94,11 @@ The best two regression models from the chart above are height and width.
 
 ## Pike
 
+```{r}
+Pikefullup <- lm(Weight~ .,data=Pike)
+summary.lm(Pikefullup)
+```
+
 ### Best Models
 
 ### Best Two regressor model
