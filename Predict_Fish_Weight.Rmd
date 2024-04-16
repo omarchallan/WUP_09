@@ -88,6 +88,9 @@ anova(Perchfullup,best.model)
 
 ### Best Two regressor model
 
+The Best Double Model - Height + Width 
+
+The best two regression models from the chart above are height and width. 
 
 ## Pike
 
